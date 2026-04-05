@@ -1,6 +1,6 @@
 # Hey, I'm James Rowdy
 
-**CEO & Founder at [TwinTone AI](https://twintone.ai)**
+**CEO & Founder at [TwinTone](https://twintone.ai)**
 
 Building AI-powered livestreaming avatars for iGaming & social commerce. 
 
