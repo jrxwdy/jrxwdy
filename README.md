@@ -1,4 +1,4 @@
-# Hey, I'm James Rowdy
+I am James Rowdy
 
 **CEO & Founder at [TwinTone](https://twintone.ai)**
 
